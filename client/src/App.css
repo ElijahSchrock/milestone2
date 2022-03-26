@@ -1,12 +1,18 @@
 .App {
   text-align: center;
-  background-color: #161616;
+  background-color: #202020;
+  color: white;
+}
+
+.nav-link {
+  text-decoration: none;
+  background-color: rgb(196, 196, 196);
+  color: black !important;
+  font-size: 18px;
+  border-radius: 16px;
 }
 
 .navItem {
-  text-decoration: none;
-  color: lime;
-  font-size: 18px;
-  border: solid white 1px;
-  border-radius: 16px;
+  padding: 5px;
 }
+
